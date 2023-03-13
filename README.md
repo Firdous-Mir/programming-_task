@@ -11,3 +11,4 @@ Using the example layout provided in either "sourcefiles/example.png" or "source
 - Clicking the "Next Person" button, after reaching the end of the "data" array, will trigger an alert that says "No more people!".
 
 - It is important to use PHP, HTML, CSS, JS, and JSON to complete this task to demonstrate your proficiency in these languages.
+- no bootstrap are used
